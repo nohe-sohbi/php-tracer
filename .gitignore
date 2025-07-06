@@ -1,0 +1,8 @@
+# Fichiers de log
+*.log
+
+# Dépendances Composer
+/vendor/
+
+# Fichiers d'environnement
+.env
